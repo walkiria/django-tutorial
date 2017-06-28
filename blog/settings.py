@@ -25,7 +25,8 @@ SECRET_KEY = 'ldw)()w+q&95@2-no9j8@w67*x8dv!j0&y%=f&1rp8#a)=st7k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'walkiria.pythonanywhere.com']
+
 
 
 # Application definition
